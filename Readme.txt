@@ -1,6 +1,6 @@
 This is a simple api rendering project just as a travel advisor 
 What is done:
-1) I have used the RAPIDAPI's open source Api
+1) I have used the RAPIDAPI's open source Api   "  https://rapidapi.com/apidojo/api/travel-advisor   "
 2) I have learnt about rendering the data of the different places based on latitude and longitite from the Api 
 3) I worked with the 'google cloud console platform' to enable the Map Javascript Api and Places Api and obtain the api key to render the google map 
 4) I learned to deply the api project in the netlify
